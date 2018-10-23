@@ -49,7 +49,7 @@ def until_iterator(number_of_times)
   
   until counter == number_of_times
     puts phrase 
-    counte += 1 
+    counter += 1 
   end 
 
 end
